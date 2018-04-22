@@ -4,3 +4,5 @@
 2) cd to whenis2stradoodle directory
 3) run "node app.js" in command line
 4) go to "localhost:3000" in browser
+
+Live demo: https://whenis2stradoodle.herokuapp.com/
